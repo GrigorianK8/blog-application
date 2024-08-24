@@ -25,6 +25,7 @@ The application is built using the following technologies:
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React**: The library used for building the user interface.
 - ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) **React Router DOM**: Handles routing for different views in the application.
 - ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) **Axios**: For making HTTP requests to the backend API.
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) **Bootstrap**: For responsive design and styling.
 
 ## Getting Started
 
